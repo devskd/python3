@@ -1,0 +1,9 @@
+x=int(input("Enter the number : "))
+b=str(x)
+a=1
+c=str(1/x)
+if b in c:
+    print('Yes')
+else:
+    print('No')
+
